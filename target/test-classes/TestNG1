@@ -1,0 +1,8 @@
+g cg	axml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Testing.TitlePageCheck"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
